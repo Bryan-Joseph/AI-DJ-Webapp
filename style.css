@@ -1,0 +1,13 @@
+body{
+    background-image: url(img/bg.png);
+    background-size: cover;
+
+    overflow-x: hidden;
+}
+
+canvas{
+    border: 10px ridge red;
+    border-radius: 20px;
+
+    box-shadow: 10px 10px 10px black;
+}
